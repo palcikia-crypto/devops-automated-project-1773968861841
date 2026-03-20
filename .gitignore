@@ -1,0 +1,15 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+git-init-push.ts
+git-push-final.ts
+git-push.ts
+git-check.ts
+test-ai.ts
+test-token.ts
+check-env.ts
